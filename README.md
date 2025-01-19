@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
-<i>
-<h3 align="center">I'm an experienced web developer passionate about crafting dynamic and user-friendly web applications. With a strong foundation in frontend and backend technologies, I bring hands-on experience in creating robust solutions. My expertise spans across HTML, CSS, JavaScript, Tailwind CSS, React, Selenium and Neo4j, making me well-equipped to tackle a variety of web development projects.</h3> </i>
+<p align="center" style="font-family: 'Arial', sans-serif; font-size: 100px">I'm an experienced web developer passionate about crafting dynamic and user-friendly web applications. With a strong foundation in frontend and backend technologies, I bring hands-on experience in creating robust solutions. My expertise spans across HTML, CSS, JavaScript, Tailwind CSS, React, Selenium and Neo4j, making me well-equipped to tackle a variety of web development projects.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshcse02&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshcse02" /> </p>
 
