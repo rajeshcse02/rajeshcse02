@@ -1,18 +1,21 @@
 
-<h1 align="center">Hi 👋, I'm Rajesh</h1>
-<p align="center" style="font-family: 'Arial', sans-serif; font-size: 100px">I'm an experienced web developer passionate about crafting dynamic and user-friendly web applications. With a strong foundation in frontend and backend technologies, I bring hands-on experience in creating robust solutions. My expertise spans across HTML, CSS, JavaScript, Tailwind CSS, React, Selenium and Neo4j, making me well-equipped to tackle a variety of web development projects.</p>
+# Hey there! 👋 I'm Rajesh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshcse02&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshcse02" /> </p>
+🚀 Passionate Full-stack developer  | 🧠 Lifelong Learner
 
-- 🌱 I’m currently learning **Selenium with its frameworks.**
+---
 
-- 👨‍💻 All of my projects are available at [https://rajeshcse02.github.io/portfolio](https://rajeshcse02.github.io/portfolio)
+![Profile Views](https://komarev.com/ghpvc/?username=rajeshcse02&label=Profile%20views&color=0e75b6&style=flat)
 
-- 📫 How to reach me **rajeshcsengineer@gmail.com**
+## 🧐 About Me
 
-- ⚡ Fun fact **I think iam funny**
+- 👨‍💻 I build things that live on the internet—sometimes they even work! 
+- 🌱 Currently leveling up my Selenium automation skills. 
+- 🎯 Passionate about web development, automation, and creating seamless user experiences. 
+- ⚡ Fun fact: My code runs… eventually. 😆
+- 📫 Reach me at **rajeshcsengineer@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect With Me
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajesh-r-584b55249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajesh-r-584b55249/" height="30" width="40" /></a>
 </p>
@@ -49,5 +52,13 @@
                     src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark">
             </td>
         </tr>
+         <tr>
+            <td><strong>Testing Tools</strong></td>
+            <td><img height=40
+                    src="https://skillicons.dev/icons?i=selenium&theme=dark">
+            </td>
+        </tr>
     </table>
 </div>
+
+🚀 Always open to collaborations, learning, and cracking bad jokes about debugging! 😆
