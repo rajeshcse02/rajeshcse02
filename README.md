@@ -51,5 +51,3 @@
         </tr>
     </table>
 </div>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajeshcse02&show_icons=true&locale=en&layout=compact" alt="rajeshcse02" /></p>
