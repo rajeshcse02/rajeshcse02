@@ -55,7 +55,7 @@
          <tr>
             <td><strong>Testing Tools</strong></td>
             <td><img height=40
-                    src="https://skillicons.dev/icons?i=selenium&theme=dark">
+                    src="https://skillicons.dev/icons?i=selenium,tosca&theme=dark">
             </td>
         </tr>
     </table>
