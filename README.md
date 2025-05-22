@@ -10,7 +10,7 @@
 ## 🧐 About Me
 
 - 👨‍💻 I build things that live on the internet—sometimes they even work! 
-- 🌱 Currently leveling up my Selenium automation skills. 
+- 🌱 Currently leveling up my Full Stack skills. 
 - 🎯 Passionate about web development, automation, and creating seamless user experiences. 
 - ⚡ Fun fact: My code runs… eventually. 😆
 - 📫 Reach me at **rajeshcsengineer@gmail.com**
